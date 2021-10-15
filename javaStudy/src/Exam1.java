@@ -16,10 +16,6 @@ public class Exam1 {
 				System.out.printf("0x%02X%n", (int)min);
 				break;
 			}
-			
 		}
-		
 	}
-	
-	
 }
